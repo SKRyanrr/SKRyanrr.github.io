@@ -1,9 +1,22 @@
 ---
 # the default layout is 'page'
 icon: fas fa-book
-order: 4
+order: 5
 ---
-This is a non-exhaustive list of resources that I have found useful. I will update this list as I find more resources. **Note:** most books can be found on web if you know how to look ;)
+
+This is a non-exhaustive list of resources that I have found useful. I will update this list as time goes on.
+
+# Contents
+- [Contents](#contents)
+- [Physics](#physics)
+  - [Books](#books)
+  - [Conceptual  Physics](#conceptual--physics)
+  - [Classical Mechanics](#classical-mechanics)
+  - [Introductory Classsical Mechanics](#introductory-classsical-mechanics)
+
+
+> Almost all of the books listed here can be found free online if you know where to look ;)
+{: .prompt-info }
 
 # Physics
 
@@ -42,7 +55,7 @@ These are all the books I have read and/or heard good things about. If you like 
 Now we get to some of the meatier books. If you worked through some of the books above, you may be able to skip some of these. I will break this list into three parts: Introductory, Intermediate, and Advanced. If you worked through books above you may skip the introductory books but make sure to do the problems from at least one of the books or you can also use the [Schaum's outline 3000 solved problems in physics](https://www.goodreads.com/book/show/308173.3_000_Solved_Problems_in_Physics_Schaum_s_Solved_Problems_). Rememmber learing physics is about *problem-solving*, you are fooling yourself if you think you can learn physics by reading books which I think is the problem with most people who simply read pop-sci books and think they know physics.
 
 
-## Introductory
+## Introductory Classsical Mechanics
 
 The following books require calculus as a prerequisite. I will put resources for learning calculus in math section.
 
