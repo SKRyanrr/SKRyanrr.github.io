@@ -2,6 +2,7 @@
 title: "Notes on Numerical Methods in Python"
 categories: ["Scientific Computing"]
 math: true
+render_with_liquid: false
 tag: ["Python", "Matplotlib", "Numpy"]
 ---
 
@@ -85,7 +86,7 @@ tag: ["Python", "Matplotlib", "Numpy"]
 		- [Specifying axis](#specifying-axis)
 	- [Project: Visualizing Electric Field](#project-visualizing-electric-field)
 		- [ChatGPT code:](#chatgpt-code)
-			- [Steps:](#steps)
+			- [Steps](#steps)
 <!-- /TOC -->
 
 
