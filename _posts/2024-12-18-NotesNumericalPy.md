@@ -1114,18 +1114,19 @@ plt.show()
 
 #### Steps
 
-1. Define constant $k=9\times 10^\{9\}$
-2.  Define the values of $q_\{1\}$ and $q_\{2\}$.
-3. Define the position vectors of $q_\{1\}$ and $q_\{2\}$ as `x1,y1` and `x2,y2`.
+#### Steps:
+
+1. Define constant $k=9\times 10^{9}$
+2.  Define the values of $q_{1}$ and $q_{2}$.
+3. Define the position vectors of $q_{1}$ and $q_{2}$ as `x1,y1` and `x2,y2`.
 4. Define the grid x-y and get `meshgrid` `X,Y`
 5. Calculate the electric field
 	1. get $q$
 	2. get position vector `X-xq` and `Y-yq` for $q$
 	3. get $|\vec{r}|$ as `R`, 
-	4. **Note:** `Rx` is the $\hat\{x\}$ and `Ry` the $\hat\{y\}$.
+	4. **Note:** `Rx` is the $\hat{x}$ and `Ry` the $\hat{y}$.
 	5. get `Ey` and `Ex`
 	6. return `Ex`, `Ey`
-6. Repeat 5 for $q_\{1\}$ and $q_\{2\}$
-7. Get $E_\{\{\text\{net\}\} , x\}$ and $E_\{\{\{\text\{net\}\}, y\}\}$
-
-8. Plot `stramplot`
+6. Repeat 5 for $q_{1}$ and $q_{2}$
+7. Get $E_{\text{net},x}$ and $E_{{\text{net}, y}}$
+8. Plot `stramplot` 
