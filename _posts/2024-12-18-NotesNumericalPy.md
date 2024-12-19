@@ -2,8 +2,8 @@
 title: "Notes on Numerical Methods in Python"
 categories: ["Scientific Computing"]
 math: true
+render_with_liquid: false
 font-family: "Comfortaa"
-render_with_liquid: true
 tag: ["Python", "Matplotlib", "Numpy"]
 ---
 
