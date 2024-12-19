@@ -1047,19 +1047,17 @@ X, Y = np.meshgrid(x, y)
 
 def E_field(q, xq, yq, X, Y):
 
-Rx = X - xq
+	Rx = X - xq
 
-Ry = Y - yq
+	Ry = Y - yq
 
-R = np.sqrt(Rx**2 + Ry**2)
+	R = np.sqrt(Rx**2 + Ry**2)
 
-Ex = k * q * Rx / R**3
+	Ex = k * q * Rx / R**3
 
-Ey = k * q * Ry / R**3
+	Ey = k * q * Ry / R**3
 
-return Ex, Ey
-
-  
+	return Ex, Ey
 
 # Electric field due to charge 1
 
@@ -1112,6 +1110,8 @@ plt.legend(['Charge 1', 'Charge 2'])
 
 plt.show()
 ```
+**Output:**
+![Gz1.png](./Gz1.png)
 
 #### Steps
 
