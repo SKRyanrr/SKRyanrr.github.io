@@ -835,6 +835,7 @@ print(B)
 Arrays, unlike lists, can be used to *broadcast* numbers onto many slots. 
 
 List slicing in numpy cannot be used to copy arrays *but* it can be used to *broadcast a slice or an element of the array to itself*. This syntax is known as an *everything slice*.
+
 ```python
 A = np.random.random(10)
 A*A[::-1]
@@ -856,6 +857,7 @@ You can also carry out other operations with arrays that wouldn't be possible wi
 - `np.sum()` sums all the elements of any N-dimensional array.
 - `np.argmax()` and `np.argmin()` returns the maximum and minimum value of an array respectively.
 - `np.transpose()` transposes the array `A`. We can also use the shorthand `A.T` to get the same result.
+
 ```python
 import numpy as np
 np.random.seed(12)
@@ -865,7 +867,7 @@ A = np.random.random((3,3))
 print(A.T)
 ```
 
-- The `reshape()` function in numpy reshapes the array to the specified dimension
+- The `reshape()` function in numpy reshapes the array to the specified dimension.
 
 ```python
 xs = np.array(([1,2],
