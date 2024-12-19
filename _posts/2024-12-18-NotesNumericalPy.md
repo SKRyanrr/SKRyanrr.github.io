@@ -2,6 +2,7 @@
 title: "Notes on Numerical Methods in Python"
 categories: ["Scientific Computing"]
 math: true
+font-family: "Comfortaa"
 render_with_liquid: true
 tag: ["Python", "Matplotlib", "Numpy"]
 ---
@@ -1211,4 +1212,4 @@ plt.show()
 6. Repeat 5 for $q_\{1\}$ and $q_\{2\}$
 7. Get $E_\{\{\text\{net\}\} , x\}$ and $E_\{\{\{\text\{net\}\}, y\}\}$
 
-8. Plot `stramplot` 
+8. Plot `stramplot`
