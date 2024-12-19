@@ -1121,7 +1121,7 @@ plt.show()
 5. Calculate the electric field
 	1. get $q$
 	2. get position vector `X-xq` and `Y-yq` for $q$
-	3. get $|\vec\{r\}|$ as `R`, 
+	3. get $|\vec{r}|$ as `R`, 
 	4. **Note:** `Rx` is the $\hat\{x\}$ and `Ry` the $\hat\{y\}$.
 	5. get `Ey` and `Ex`
 	6. return `Ex`, `Ey`
