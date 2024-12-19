@@ -1,5 +1,5 @@
 ---
-title: "Notes on Numerical Methods in Python"
+title: "Notes on Numerical Methods in Python Chapter 1"
 categories: ["Scientific Computing"]
 math: true
 render_with_liquid: false
@@ -7,6 +7,7 @@ font-family: "Comfortaa"
 tag: ["Python", "Matplotlib", "Numpy"]
 ---
 
+These are my notes on the book *Numerical Methods in Python* by by Alex Gezerlis. These notes are subject to continuous changes.
 
 # Chapter 1: Idiomatic Python
 
@@ -1123,7 +1124,7 @@ plt.show()
 5. Calculate the electric field
 	1. get $q$
 	2. get position vector `X-xq` and `Y-yq` for $q$
-	3. get $|\vec{r}|$ as `R`, 
+	3. get $\mid \vec{r}\mid$ as `R`, 
 	4. **Note:** `Rx` is the $\hat{x}$ and `Ry` the $\hat{y}$.
 	5. get `Ey` and `Ex`
 	6. return `Ex`, `Ey`
