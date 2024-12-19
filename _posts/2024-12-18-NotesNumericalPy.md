@@ -1111,7 +1111,7 @@ plt.legend(['Charge 1', 'Charge 2'])
 plt.show()
 ```
 **Output:**
-![Gz1.png](Gz1.png)
+![Gz1.png](../Gz1.png)
 
 #### Steps
 
